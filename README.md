@@ -25,5 +25,7 @@
 </div>
 
 Please enter to my blog for more information and details :
+<br>
+<a href="#">Soon...</a>
 
-https://localhost:44380/k-means-parallel-computing
+</h5>
