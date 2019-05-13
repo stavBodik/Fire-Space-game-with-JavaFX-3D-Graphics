@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="resources/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Java_FX_3D_workspace/Gun3d_306667478/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Java_FX_3D_workspace/Gun3d_306667478/commons-validator-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_FX_3D_workspace/Gun3d_306667478/jimObjModelImporterJFX.jar"/>
+	<classpathentry kind="lib" path="C:/Java_FX_3D_workspace/Gun3d_306667478/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
